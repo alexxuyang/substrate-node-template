@@ -1,6 +1,6 @@
 # Substrate Node Template
 
-A new SRML-based Substrate node, ready for hacking.
+A new SRML-based Substrate node, ready for hacking. Fork from master branch as of date: 2019-12-25
 
 ## Build
 
